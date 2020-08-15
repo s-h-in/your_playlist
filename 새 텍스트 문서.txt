@@ -1,0 +1,70 @@
+구글 첫번째
+
+#rso > div:nth-child(1)
+
+<div class="g"><h2 class="Uo8X3b">웹 검색결과</h2><!--m--><div class="rc" data-hveid="CAQQAA" data-ved="2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQFSgAMAB6BAgEEAA"><div class="r"><a href="https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/&amp;ved=2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQFjAAegQIBBAB" target="_blank" rel="noopener"><br><h3 class="LC20lb DKV0Md">나만의 웹 크롤러 만들기(3): Selenium으로 무적 크롤러 만들기 ...</h3><div class="TbwUpd NJjxre"><cite class="iUh30 bc tjvcx">beomi.github.io<span class="eipWBe"> › 2017/02/27 › HowToMakeWebCraw...</span></cite></div></a><div class="B6fmyf"><div class="TbwUpd"><cite class="iUh30 bc tjvcx">beomi.github.io<span class="eipWBe"> › 2017/02/27 › HowToMakeWebCraw...</span></cite></div><div class="eFM0qc"><span><div class="action-menu"><a class="GHDvEf" href="#" id="am-b0" aria-label="검색결과 옵션" aria-expanded="false" aria-haspopup="true" role="button" jsaction="m.tdd;keydown:m.hbke;keypress:m.mskpe" data-ved="2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQ7B0wAHoECAQQBA"><span class="mn-dwn-arw"></span></a><ol class="action-menu-panel" role="menu" tabindex="-1" jsaction="keydown:m.hdke;mouseover:m.hdhne;mouseout:m.hdhue" data-ved="2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQqR8wAHoECAQQBQ"><li class="action-menu-item" role="menuitem"><a class="fl" href="https://webcache.googleusercontent.com/search?q=cache:F-Vh_FZxXE4J:https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/+&amp;cd=1&amp;hl=ko&amp;ct=clnk&amp;gl=kr" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://webcache.googleusercontent.com/search%3Fq%3Dcache:F-Vh_FZxXE4J:https://beomi.github.io/2017/02/27/HowToMakeWebCrawler-With-Selenium/%2B%26cd%3D1%26hl%3Dko%26ct%3Dclnk%26gl%3Dkr&amp;ved=2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQIDAAegQIBBAG" target="_blank" rel="noopener">저장된&nbsp;페이지</a></li></ol></div></span></div></div></div><div class="s"><div><span class="st"><span class="f">2017. 2. 26. - </span><em>Selenium</em>은 주로 웹앱을 테스트하는데 이용하는 프레임워크다. webdriver 라는 API<wbr>를 통해 운영체제에 설치된 Chrome등의 브라우저를 제어하게&nbsp;...</span></div></div><div jscontroller="m6a0l" id="eob_10" jsdata="fxg5tf;;BXqMvY" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQ2Z0BMAB6BAgEEAg"><div jsname="UTgHCf" class="AUiS2" data-ved="2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQx40DegQIGhAA"><div jsname="d3PE6e" style="display:none"><div data-ved="2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQsKwBKAB6BAgaEAE">Selenium 설치</div><div data-ved="2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQsKwBKAF6BAgaEAI">Selenium-java</div><div data-ved="2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQsKwBKAJ6BAgaEAM">셀레니움 매크로</div><div data-ved="2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQsKwBKAN6BAgaEAQ">크롬드라이버 64비트</div><div data-ved="2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQsKwBKAR6BAgaEAU">셀레니움 테스트 자동화</div><div data-ved="2ahUKEwjImrKVi4vrAhX-xosBHfBsBSgQsKwBKAV6BAgaEAY">Selenium 함수</div></div><div><div jsname="l1CLDf" class="d8lLoc"><h4 jsname="IaVMje" class="eJ7tvc">함께 검색한 항목</h4><span jsname="ZnuYW" class="XCKyNd" jsaction="ornU0b" aria-label="추천 후속 작업을 닫습니다." role="button" tabindex="0"></span><div jsname="CeevUc" class="hYkSRb"></div></div></div></div></div></div><!--n--></div>
+
+
+#rso > div:nth-child(1)
+
+<div class="g"><h2 class="Uo8X3b">웹 검색결과</h2><!--m--><div class="rc" data-hveid="CAUQAA" data-ved="2ahUKEwiEpYXYppvrAhULfXAKHfZ9CHMQtgIoADAAegQIBRAA"><div class="r"><a href="https://www.youtube.com/watch?v=jcSBv0X9LiM" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DjcSBv0X9LiM&amp;ved=2ahUKEwiEpYXYppvrAhULfXAKHfZ9CHMQtwIwAHoECAUQAQ" target="_blank" rel="noopener"><br><h3 class="LC20lb DKV0Md">DJ OKAWARI feat. Kie Katagi from jizue「SAKURA Tears ...</h3><div class="TbwUpd NJjxre"><cite class="iUh30 bc tjvcx">www.youtube.com<span class="eipWBe"> › watch › v=jcS...</span></cite></div></a><div class="B6fmyf"><div class="TbwUpd"><cite class="iUh30 bc tjvcx">www.youtube.com<span class="eipWBe"> › watch › v=jcS...</span></cite></div><div class="eFM0qc"> - <a class="fl iUh30" href="https://translate.google.com/translate?hl=ko&amp;sl=en&amp;u=https://www.youtube.com/watch%3Fv%3DjcSBv0X9LiM&amp;prev=search&amp;pto=aue" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://translate.google.com/translate%3Fhl%3Dko%26sl%3Den%26u%3Dhttps://www.youtube.com/watch%253Fv%253DjcSBv0X9LiM%26prev%3Dsearch%26pto%3Daue&amp;ved=2ahUKEwiEpYXYppvrAhULfXAKHfZ9CHMQ7gEwAHoECAUQBQ" target="_blank" rel="noopener">이 페이지 번역하기</a></div></div></div><div class="s"><div><div class="N3nEGc"><a class="rGhul IHSDrd" style="height:65px;width:116px" href="https://www.youtube.com/watch?v=jcSBv0X9LiM" data-ved="2ahUKEwiEpYXYppvrAhULfXAKHfZ9CHMQuAIwAHoECAUQBg" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DjcSBv0X9LiM&amp;ved=2ahUKEwiEpYXYppvrAhULfXAKHfZ9CHMQuAIwAHoECAUQBg" target="_blank" rel="noopener"><g-img class="PcHvNb BA0A6c" style="height:65px;width:116px"><img id="vidthumb1" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAEEAdAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAAAQUCBgcEA//EAD4QAAEDAwMBBQQGBgsAAAAAAAECAwQABRESITFBBhMiUZEUUmFxByMygaGxNDVzwvDxFRYkNkJDcnSCstH/xAAbAQABBQEBAAAAAAAAAAAAAAAAAQIDBQYEB//EACkRAAIBAgUDAgcAAAAAAAAAAAABAgMRBBIhMVEFE0EiQjIzNGFxgfD/2gAMAwEAAhEDEQA/AOWaU+6n0ppT7qfSppXonbhwiaxGlPup9KnQn3U+lKkUZILwgsei3wTNltsIRkE+MpTnSnqa2Jjsm0+7J9iWiWkN6o+kbqweVCqTszciJz0b68R32jr9nCQ6sDfwlWwGfgfka6h2J7Oxk3Vh8RQFN6i+0twlSCRnSrHOQc9B8KyvUMfOpNwoNKKBSijXonY24QEtqkW+O1KluhppLyQWWEqIScnqpRIT8AfM1aTuyIZtqZr0O3EqbbVofiE6M48BAO2Arr1zXToxTEEn2lQVHQC8lxxW7Y5CSk77DBH8s+O3PQ5rsx6C93okPF19pwnB1BLYCsjb7HA+HnVVKt7ZPV/2hHlb9SWhxO+2UM3BcODHiLQvGXGWtPOMY32HNeS4dn2WoqVQ++efDmHPqtKAnG2Cfj91dB7TpgWu8h0PQwwrBSVSEq2xjToA4yNiVfdVNPeS/HK7dFacbBwGUugJSrqSCcZ++rPB4mq5Rjpb7+RcySOduspbWUHu1FJwSncVhoT7qfSvTOkuSpK3XiO8JwcY4Gw4r4GtVCEGr2Q5aox0p91PpTSn3U+lTSnduHCFsRpT7qfSlTSjtw4QWFKUp4CsXsBleTgaTWVYPpLjS0Dkio61+3K3AM2f6IkQp96nw7gy++tyCsx+6PiQU7nGds4232Od6s7dMuvZO8MOvxu7hu6kMOSEtqStB2IOgkZxvjJ4re/ohtFohdkG5lvbK5kkESn3Eb6h/gGegrWPpFtLUGySG7az3euQlagBtkq3VjjO/SvNatdUqqjLyx0KLlFs6ZanlX+xNLWjDThWy4hxoNKIBI4B2JPkrBHFfPs7Et8MOCC37Q3IbS43K7zvEvIOcAEDTtt88g9a0O2Tr7ZrNAujVwN5jRcBxgKAKWiU755KklJxnoat2b47LjMxYQjtQ3kuISthPdhWknRjfjbHI3PO2/U4U5zz7ESc7OK2Pn2nvkW4Xn2WEoN+ytjvg5qbTrznSoEYJGcgEEb7edaLMh2uYZbsNClvrGpbISWWgo/Dw5JPuEjrVzDttvEtZmPaVNJ1anQMujHGeM/HHOa8fai52t+3wYdvQ8WgtThkNoSdKceHUAMavxqalKUpZIc/sJxSNClLke2lEsEKQcaUgAbbYGP42qelfcuqadK2ldTutIJ+/NfBRycnk1s8HRnShabu2OiRSlK6xRSlKAFKUoAVIqKkUAdv+hxlTnZ8OttutNham1q77Wh0g5zoP2Tg8jmrntrBDVrkSXoqZMJLZ9oax4yk9Qa4FCudwgBQgTpEYK3IadKc10v6P0PdqbcYUwl5bL39qfdkanlNndOEqOyemRWJ6x0twm6z1TY6M3DY1wtItVsCoDD9xailbgWg/o7WxBUjrpycncAc1UQO0k23MXFjun3JjhS224kqQEowcjRvzz9+fjXVZUfs3EvL8G1HVLiNpcd7vTiLg4wskblWR4Tq36CudW1Skdo3XJLkld4lP/UOqSEgJUCEuo6BOAkDfA4yN6rINxTTRG/VY+H9bFNQDGet8N4J4TKcWspPOMEelVzt3cdTJU0+Gi6vSWkpHiTj0GOOKv4FmjOqmpvTxcaaQVMOj/MOo6gojg9CeOoqmkSmo9tVbI7EUR/aC6l3UlS1b7JJB4HG9XHTKalVUkhLalQtalfaOcbVhWeMpGNxuVeSd/5Vga2CHkUpSlAUpSgBSppRoBFSKUougPfaLZLukkNQUFTifETjISPM1vcLs2+u1xXn7d360jxvhJylRO+kg7b1Rdiilh8PBLiHEKz3iTjw4/Gt1/pd7uY9okLcEV0K8TYGtfUJFYvrU3ia+Rv0x8cj41Ml8u7NekWq3W1lU1kPJkuvd1rU+vUl4eJBUTyM8eZ2q9t0WfPeYXc5cdkqbDrQcjhDa3AU+LyKsJyBxk5xyDSPwUqguPKmoXIakAoipyrUBnBJ42yflUX6FJmpb0zcqU0g9ShGwGnfkjA/Gq3L4jvsRq7/AAXMGLb7gpbjKmZENO7qVpwvcjZIA2JA54xWsdodbV2luWuytNwUqLTTqGW46kjHiSC2keqgT8a9/ZlcqyuexsuOLcfCtSG2w4VJx5E/nVbFvSblNDbhcaSh1RbaUMqWoeSU54x89q6YdynOzeyGXV7lNcILVtx3qdclSdTUfGe7TjZS/M+Q67E7bGoWCFEKznrmthvBSX33GGijvDqLg2OT5eW5+da8oYJB5HNbDBVO5BSvcejGlTSu3QUilTUUaAeKlKVmCMUHNTSlAubT1+Q/KvSr9ZwP237ppSqOfzpB5RjH/Rlf6nPyNeh3lPz/APaUptL6hEnsMYH6+b/Yr/Oqns5/eOP/ALlX/VVKU6fxzIUfSX9j/l+8KqRwPlSlWWF+EcTSlK6QFKUoA//Z" class="rISBZc M4dUYb" height="65" width="116" alt="jcSBv0X9LiM 동영상" data-atf="1"></g-img><div class="l4UjKc"></div><div class="rYGwVd mTLLz"></div><div class="ij69rd UHe5G">3:52</div></a></div></div><div style="margin-left:125px"><span class="st">「SAKURA Tears 」 DJ OKAWARI - album “Perfect Blue" --------------------------------<wbr>------------ 【Release Information】 DJ ...</span><div class="dhIWPd f">2019. 5. 24. - 업로더: DJ OKAWARI OFFICIAL</div></div><div style="clear:left"></div></div></div><!--n--></div>
+
+
+
+
+네이버 첫번째
+
+블로그/
+#sp_blog_1
+
+웹사이트/
+#web_layer_0
+
+지식인/
+#main_pack > div.kinn.section._kinBase > ul > li:nth-child(1)
+
+카페/
+#main_pack > div.cafe.section._cafeBase._prs_caf > ul > li:nth-child(1)
+
+
+
+
+
+다음 첫번째
+
+웹문서/
+#webdocColl > div.coll_cont > div > ul > li.fst
+
+카카오스토리/
+#kasColl > div.coll_cont > ul > li:nth-child(1)
+
+카페글/
+#cafeColl > div.coll_cont > ul > li.fst
+#cafeColl > div.coll_cont > ul > li:nth-child(2)
+
+블로그/
+#blogColl > div.coll_cont > ul > li.fst
+
+
+
+
+
+bing/
+#b_results > li:nth-child(1)
+
+
+
+
+
+
+
+
+ let result = ytbURL.split('=')
+
+let ytbID = result[1]
+
+if 글자가 11자 초과
+if 글자에 &를 포함한다면
+
+let ytbID = result[1].split('&')
+(첫번째 &로 나눔)
